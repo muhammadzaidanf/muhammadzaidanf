@@ -33,8 +33,9 @@ Currently, I’m still exploring fundamentals — learning, experimenting, and b
 ---
 
 ### 📈 GitHub Stats
-![Zaidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzaidanf&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzaidanf&layout=compact&theme=radical)
+![Zaidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzaidanf&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzaidanf&layout=compact&theme=tokyonight)
+
 
 ---
 
