@@ -40,6 +40,16 @@ Currently, I’m exploring fundamentals — learning, experimenting, and buildin
 
 ---
 
+### 📦 Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| [**AI Agent (Coming Soon)**](https://github.com/muhammadzaidanf/ai-agent) | A mini conversational AI using Python and NLP concepts. | Python, NLTK |
+| [**Portfolio Website (Coming Soon)**](https://github.com/muhammadzaidanf/portfolio) | My personal website built with HTML, CSS, and JS — hosted on GitHub Pages. | HTML, CSS, JavaScript |
+| [**Next Project: ZAI Core (TBA)**](#) | An experimental AI-driven app that blends creativity and automation. | Flask, OpenAI API |
+
+---
+
 ### 📈 GitHub Stats
 ![Zaidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzaidanf&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzaidanf&layout=compact&theme=tokyonight)
