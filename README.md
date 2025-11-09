@@ -1,8 +1,9 @@
 # Hey, I'm Muhammad Zaidan 👋  
 **Tech Student | Future AI & Cybersecurity Engineer | Builder of Tomorrow**
 
----
 ![Profile views](https://komarev.com/ghpvc/?username=muhammadzaidanf&label=Profile%20views&color=blueviolet&style=flat)
+
+---
 
 ### ⚡ About Me
 I'm a tech student who’s passionate about **Artificial Intelligence**, **Cybersecurity**, and how technology can shape the future.  
@@ -32,21 +33,26 @@ Currently, I’m still exploring fundamentals — learning, experimenting, and b
 
 ---
 
-### 📈 GitHub Stats
-![Zaidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzaidanf&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzaidanf&layout=compact&theme=tokyonight)
-
+### 🧩 Currently Learning
+- 🧠 Machine Learning (Basics)
+- ⚙️ Git & Version Control
 
 ---
 
-### 🧭 Current Mission
-> “Learn deep, build fast, and stay curious. The world doesn’t wait — so neither will I.”
+### 📈 GitHub Stats
+![Zaidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzaidanf&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzaidanf&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Zaidan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mzaidanfaiz/)
 [![Gmail](https://img.shields.io/badge/Gmail-muhammadzaidanfaiz8%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:muhammadzaidanfaiz8@gmail.com)
+
+---
+
+### 🎲 Fun Fact
+I break things to understand how they work — that’s how I learn.
 
 ---
 
