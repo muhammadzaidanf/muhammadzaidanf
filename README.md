@@ -46,6 +46,11 @@ Currently, I’m exploring fundamentals — learning, experimenting, and buildin
 
 ---
 
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadzaidanf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Zaidan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mzaidanfaiz/)
 [![Gmail](https://img.shields.io/badge/Gmail-muhammadzaidanfaiz8%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:muhammadzaidanfaiz8@gmail.com)
