@@ -1,28 +1,28 @@
 # Hey, I'm Muhammad Zaidan 👋  
-**Tech Student | Future AI & Cybersecurity Engineer | Builder of Tomorrow**
+**Tech Student | Future AI Engineer | Builder of Tomorrow**
 
 ![Profile views](https://komarev.com/ghpvc/?username=muhammadzaidanf&label=Profile%20views&color=blueviolet&style=flat)
 
 ---
 
 ### ⚡ About Me
-I'm a tech student who’s passionate about **Artificial Intelligence**, **Cybersecurity**, and how technology can shape the future.  
-Currently, I’m still exploring fundamentals — learning, experimenting, and building small prototypes while preparing to create real-world systems.
+I'm a tech student who’s passionate about **Artificial Intelligence**, **Web Development**, and how technology can shape the future.  
+Currently, I’m exploring fundamentals — learning, experimenting, and building small prototypes while preparing to create real-world systems.
 
 > I believe technology isn’t just about code — it’s about control, vision, and creating impact.
 
 ---
 
 ### 🎯 What I'm Doing Now
-- 🧠 Learning the fundamentals of **Python**, **Linux**, and **Networking**
-- ⚙️ Exploring **Cybersecurity** through basic IDS concepts and packet analysis
-- 💬 Writing small scripts & testing things in **Debian** and **Kali Linux**
+- 🧠 Learning the fundamentals of **Python**, **Linux**, and **Machine Learning**
+- 💬 Building small scripts & experimenting with NLP and data processing
+- 🌐 Developing frontend & backend basics with HTML, CSS, JavaScript, and Flask
 - 📚 Preparing for university & building my developer foundation
 
 ---
 
 ### 🧰 Tech Stack
-`Python` | `Linux` | `Cisco Packet Tracer` | `HTML` | `CSS` | `Wireshark` | `VS Code`
+`Python` | `Linux` | `HTML` | `CSS` | `JavaScript` | `Flask` | `VS Code`
 
 ---
 
@@ -35,6 +35,7 @@ Currently, I’m still exploring fundamentals — learning, experimenting, and b
 
 ### 🧩 Currently Learning
 - 🧠 Machine Learning (Basics)
+- 🧪 Natural Language Processing
 - ⚙️ Git & Version Control
 
 ---
