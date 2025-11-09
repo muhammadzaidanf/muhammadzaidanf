@@ -25,7 +25,6 @@ Currently, I’m still exploring fundamentals — learning, experimenting, and b
 ---
 
 ### 🚀 Goals for 2025–2026
-- 🧩 Build my first **IDS Simulation Project** using Debian & Snort  
 - 🤖 Create a **Mini AI Agent** using Python (Natural Language Processing)  
 - 🌐 Launch my own **Portfolio Website** hosted on GitHub Pages  
 - 🎓 Get into **STEI-K ITB** and grow into a top-tier engineer
