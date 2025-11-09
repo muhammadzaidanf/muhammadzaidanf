@@ -44,9 +44,9 @@ Currently, I’m still exploring fundamentals — learning, experimenting, and b
 
 ---
 
-### 📫 Connect
-💼 [LinkedIn](https://www.linkedin.com/in/mzaidanfaiz/)  
-📧 **muhammadzaidanfaiz8@gmail.com**
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Zaidan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mzaidanfaiz/)
+[![Gmail](https://img.shields.io/badge/Gmail-muhammadzaidanfaiz8%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:muhammadzaidanfaiz8@gmail.com)
 
 ---
 
