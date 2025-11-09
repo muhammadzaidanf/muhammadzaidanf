@@ -2,7 +2,7 @@
 **Tech Student | Future AI & Cybersecurity Engineer | Builder of Tomorrow**
 
 ---
-[Profile views](https://komarev.com/ghpvc/?username=muhammadzaidanf&label=Profile%20views&color=blueviolet&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=muhammadzaidanf&label=Profile%20views&color=blueviolet&style=flat)
 
 ### ⚡ About Me
 I'm a tech student who’s passionate about **Artificial Intelligence**, **Cybersecurity**, and how technology can shape the future.  
